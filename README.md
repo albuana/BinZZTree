@@ -84,3 +84,7 @@ To remove an element, you first do a **bubbleUp** of that element. If it exists,
 
 ---
 
+* **Grade:** 19,4/20
+
+---
+
